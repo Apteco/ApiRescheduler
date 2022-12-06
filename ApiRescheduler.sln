@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apteco.ApiRescheduler.ApiClient", "Apteco.ApiRescheduler.ApiClient\Apteco.ApiRescheduler.ApiClient.csproj", "{4847754C-5524-4AD1-8976-25C0B81D8B0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apteco.ApiRescheduler.Console", "Apteco.ApiRescheduler.Console\Apteco.ApiRescheduler.Console.csproj", "{86703260-C81A-431D-AC58-110DE6F48DD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apteco.ApiRescheduler.Core", "Apteco.ApiRescheduler.Core\Apteco.ApiRescheduler.Core.csproj", "{89667723-6C4E-4F51-908D-7B1E11980A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apteco.ApiRescheduler.Resources", "Apteco.ApiRescheduler.Resources\Apteco.ApiRescheduler.Resources.csproj", "{B2211E28-3C36-4454-A31F-A1B0BA4B40F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79727CCA-C7F2-4B63-B2EC-BB83B9758B7C}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4847754C-5524-4AD1-8976-25C0B81D8B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4847754C-5524-4AD1-8976-25C0B81D8B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4847754C-5524-4AD1-8976-25C0B81D8B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4847754C-5524-4AD1-8976-25C0B81D8B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86703260-C81A-431D-AC58-110DE6F48DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86703260-C81A-431D-AC58-110DE6F48DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86703260-C81A-431D-AC58-110DE6F48DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86703260-C81A-431D-AC58-110DE6F48DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89667723-6C4E-4F51-908D-7B1E11980A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89667723-6C4E-4F51-908D-7B1E11980A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89667723-6C4E-4F51-908D-7B1E11980A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89667723-6C4E-4F51-908D-7B1E11980A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2211E28-3C36-4454-A31F-A1B0BA4B40F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2211E28-3C36-4454-A31F-A1B0BA4B40F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2211E28-3C36-4454-A31F-A1B0BA4B40F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2211E28-3C36-4454-A31F-A1B0BA4B40F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE22C97-A9DB-426E-9E97-A1F2E4D23AA3}
+	EndGlobalSection
+EndGlobal

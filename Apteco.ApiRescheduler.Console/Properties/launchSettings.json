@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Apteco.ApiRescheduler.Console": {
+      "commandName": "Project"
+    }
+  }
+}
